@@ -64,7 +64,7 @@
 ### 🌐 Contato
 
 - 📫 Email: [pedroferreiran11@gmail.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/seuperfil](https://www.linkedin.com/in/pedro-henrique-ferreira-neri/]
+- 💼 LinkedIn: [https://www.linkedin.com/in/pedro-henrique-ferreira-neri/]
 
 ---
 
