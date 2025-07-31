@@ -9,17 +9,24 @@ I'm Pedro Henrique, I'm a front end programmer, I'm currently creating projects 
 <br>
 
 <h2>Frameworks e Bibliotecas<h2>
+  <br/>
 - <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react-logo" />
 - <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="next-logo" />
 - <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node-logo" />
 - <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express-logo" />
 
 <h2>Banco de Dados<h2>
+  <br/>
 - <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql-logo" />
 - <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres-logo" />
 - <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo-logo" />
 
-<h2> <!-- Versionamento e Deploy --><h2>
+<h2> Versionamento e Deploy<h2>
+  <br/>
+- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git-logo" />
+- <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github-logo" />
+
+
 - <h3>Am available to work <h3>
 
 <br>
