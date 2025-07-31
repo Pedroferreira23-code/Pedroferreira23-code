@@ -55,16 +55,16 @@
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueNeri&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueNeri&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedroferreira23-code&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroferreira23-code&layout=compact&langs_count=7&theme=react"/>
 </p>
 
 ---
 
 ### 🌐 Contato
 
-- 📫 Email: [seuemail@email.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/seuperfil](https://www.linkedin.com/in/seuperfil)
+- 📫 Email: [pedroferreiran11@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/seuperfil](https://www.linkedin.com/in/pedro-henrique-ferreira-neri/]
 
 ---
 
