@@ -63,6 +63,7 @@
 
 - 📫 Email: pedroferreiran11@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/pedro-henrique-ferreira-neri/
+- 📞 Telefone: (61)9 9592-9713
 
 ---
 
